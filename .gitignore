@@ -1,0 +1,6 @@
+.idea/*
+.DS_Store
+SockMeServer/obj/*
+SockMeServer/bin/*
+SockMeClient/obj/*
+SockMeClient/bin/*
